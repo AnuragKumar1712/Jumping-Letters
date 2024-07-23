@@ -1,4 +1,4 @@
-## Jumping Letters Project
+### Jumping Letters Project
 
 **Description:**
 The "Jumping Letters" project is an interactive and visually appealing webpage that showcases the word "JUMP" with each letter performing a jumping animation when clicked. This project leverages the power of HTML, CSS, and JavaScript to create an engaging user experience.
